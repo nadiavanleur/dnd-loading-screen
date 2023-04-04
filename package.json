@@ -1,16 +1,16 @@
 {
-  "name": "dn-d-loading-screen",
+  "name": "dnd-loading-screen",
   "version": "1.0.0",
   "private": true,
-  "description": "dn-d-loading-screen",
+  "description": "dnd-loading-screen",
   "author": "nadiavanleur",
   "keywords": [
     "gatsby"
   ],
   "scripts": {
-    "dev": "gatsby develop",
+    "dev": "rm -rf .cache && gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
+    "build": "rm -rf .cache && gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "typecheck": "tsc --noEmit"
