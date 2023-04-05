@@ -2,6 +2,8 @@
 
 Simple loading screen based on the well known reddit thread
 
+https://dndloadingscreen.site
+
 ![Example](https://dndloadingscreen.site/screenshot.jpg)
 
 ### Sources
