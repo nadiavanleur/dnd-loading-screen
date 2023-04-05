@@ -16,7 +16,7 @@ const config: GatsbyConfig = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        "icon": "src/images/icon.png"
+        "icon": "src/assets/images/icon.png"
       }
     },
     "gatsby-plugin-sharp",
@@ -25,10 +25,30 @@ const config: GatsbyConfig = {
       resolve: 'gatsby-source-filesystem',
       options: {
         "name": "images",
-        "path": "./src/images/"
+        "path": "./src/assets/images/"
       },
       __key: "images"
-    }
+    },
+    {
+      resolve: `gatsby-plugin-svgr`,
+      options: {
+        svgoConfig: {
+          plugins: [
+            {
+              name: 'preset-default',
+              params: {
+                overrides: {
+                  removeDimensions: false,
+                  removeViewBox: false,
+                  cleanupIDs: true,
+                },
+              },
+            }
+          ],
+        },
+      },
+    },
+    `gatsby-transformer-inline-svg`,
   ]
 };
 

@@ -1,0 +1,905 @@
+[
+  {
+    "label": "In D&D, the options are limitless and the consequences are mandatory."
+  },
+  {
+    "label": "Never split the party. \nNEVER SPLIT THE PARTY."
+  },
+  {
+    "label": "Generally speaking, if you end up with a fraction while playing D&D, round down."
+  },
+  {
+    "label": "Generally speaking, if you end up with a tie between two numbers in D&D, whoever rolled wins the tie."
+  },
+  {
+    "label": "There are no wrong paths, just paths that your DM hasn’t prepared for."
+  },
+  {
+    "label": "A creature can be Tiny, Small, Medium, Large, Huge, or Gargantuan in size."
+  },
+  {
+    "label": "For most rolls, your success is measured by whether you were able to roll higher than a Difficulty Class, or DC."
+  },
+  {
+    "label": "For attack rolls, your success is measured by whether you were able to roll higher than an Armor Class, or AC."
+  },
+  {
+    "label": "This is game is tabletop, and your DM’s responses aren’t programmed. Think outside the box!"
+  },
+  {
+    "label": "Be cautious and intelligent, and think things through. D&D does not let you restore from save files."
+  },
+  {
+    "label": "Don’t be afraid of a retreat if combat isn’t going well. It may seem cowardly, but cowardice is usually preferable to death."
+  },
+  {
+    "label": "When the DM asks you “Really? Are you sure?”, you should always say “No.”"
+  },
+  {
+    "label": "Keep track of your buffs, bonuses, abilities, and penalties. Your DM can’t remember everything."
+  },
+  {
+    "label": "The DM’s role is to play with the players, not against them.\nAs far as you know, anyway."
+  },
+  {
+    "label": "DMs are always hungry. Bring them food and they may well have mercy on your character."
+  },
+  {
+    "label": "No matter how much fun you’re having, remember that you’re not the only person at the table."
+  },
+  {
+    "label": "Try to use your social skills often. Violence isn’t always the answer, and maybe that monster can be reasoned with."
+  },
+  {
+    "label": "Be sure to take notes on the lore and history of the world.\nSomeone probably worked very hard on it."
+  },
+  {
+    "label": "DMs love to put traps everywhere. Have your local rogue check around to find and dismantle them."
+  },
+  {
+    "label": "Get into roleplaying! You might earn an inspiration point, which you can use to get advantage on a future roll."
+  },
+  {
+    "label": "Each coin is worth 10 coins of the next lowest denomination.\nElectrum, the worst coin ever, is the exception."
+  },
+  {
+    "label": "If you are proficient with something, add your proficiency bonus to the roll. Duh."
+  },
+  {
+    "label": "If the campaign is getting too serious for you, recall that DMs often struggle to keep things serious at taverns."
+  },
+  {
+    "label": "If your Constitution modifier changes, your hit point maximum changes too, as if you had the new modifier from 1st level."
+  },
+  {
+    "label": "When you have advantage, roll the d20 twice and take the higher number."
+  },
+  {
+    "label": "When you have disadvantage, roll the d20 twice and take the lower number."
+  },
+  {
+    "label": "If you have both disadvantage and advantage, they cancel each other out, even if there are multiple instances of either."
+  },
+  {
+    "label": "Your Strength score measures how easily you could crush a tomato with your bare hands."
+  },
+  {
+    "label": "Your Dexterity score measures how well you could dodge a tomato being thrown at you."
+  },
+  {
+    "label": "Your Constitution score measures whether you could eat a rotten tomato without puking."
+  },
+  {
+    "label": "Your Intelligence score measures how likely you are to know that a tomato is a fruit."
+  },
+  {
+    "label": "Your Wisdom score measures how likely you are to know that a tomato shouldn’t be in a fruit salad."
+  },
+  {
+    "label": "Your Charisma score measures your ability to sell a tomato-based fruit salad – which is, of course, salsa."
+  },
+  {
+    "label": "With ability checks, rolling a 1 or a 20 does not automatically determine success or failure."
+  },
+  {
+    "label": "Use Perception checks often to see what’s going on. Or, you know, you can just be oblivious. Up to you."
+  },
+  {
+    "label": "Suspicious of that NPC’s intent? Roll an Insight check and become even more suspicious!"
+  },
+  {
+    "label": "Use a Persuasion check to win people over, make friends, or haggle! Only complete chumps pay full price!"
+  },
+  {
+    "label": "Performance checks will finally give you the chance to turn your game into a full-on musical."
+  },
+  {
+    "label": "Athletics checks determine how well you can perform physical activities, like climbing or running touchdowns."
+  },
+  {
+    "label": "If you want to know more about the land or the plants and beasts that live upon it, try a Nature check."
+  },
+  {
+    "label": "Animal Handling checks! They’re good for seeing if you can mount that random creature and…not much else, honestly."
+  },
+  {
+    "label": "Sleight of Hand checks are great for stealing things. Do them all the time! There’s nothing annoying about them!"
+  },
+  {
+    "label": "An Acrobatics check may be used if you need delicate finesse of motion – or if you really, really want to show off."
+  },
+  {
+    "label": "Stealth checks can let you hide behind something in the area."
+  },
+  {
+    "label": "Arcana checks relate to your knowledge of magic, eldritch information, mystic tradition, and other nerd crap."
+  },
+  {
+    "label": "A History check will let you recall lore and finally make you feel cool about passing that test on the Civil War."
+  },
+  {
+    "label": "Do you want to play a deductive, clever hero, but you’re limited by your feeble human mind? Roll Investigation checks."
+  },
+  {
+    "label": "Religion checks will let you recall lore about different faiths, but it won’t erase the feeling of sin in your heart."
+  },
+  {
+    "label": "Medicine checks will let you diagnose an illness or stabilize someone. They cannot heal people. Please stop asking."
+  },
+  {
+    "label": "Nature checks are nice for knowing stuff about the wild, but you’ll need Survival if you want it to not kill you."
+  },
+  {
+    "label": "Throw out a Deception check if you need to fool someone! Please do this instead of actually lying to your DM."
+  },
+  {
+    "label": "Intimidation checks are what you use when Persuasion and Deception didn’t work and you’re starting to get pissed off."
+  },
+  {
+    "label": "In a contest, two participants roll, comparing totals against each other, not against a DC."
+  },
+  {
+    "label": "If a skill contest results in a tie, the situation before the contest remains unchanged."
+  },
+  {
+    "label": "In a group check, everybody in the group rolls. If at least half the group succeeds, the check is a success."
+  },
+  {
+    "label": "Until your next turn, you only get 1 reaction, 1 action, and 1 bonus action."
+  },
+  {
+    "label": "You can use your reaction to make an opportunity attack when a creature that you can see moves out of your reach."
+  },
+  {
+    "label": "Use the Dash action if you want to increase your movement speed for the current turn."
+  },
+  {
+    "label": "If you don’t want an enemy to make an opportunity attack against you as you move away, take the Disengage action."
+  },
+  {
+    "label": "Worried you’ll get easily murdered? Take the Dodge action and you’ll be a lot harder to hit."
+  },
+  {
+    "label": "While dodging, you have advantage on Dexterity saving throws."
+  },
+  {
+    "label": "While dodging, any attack roll made against you has disadvantage if you can see the attacker."
+  },
+  {
+    "label": "You lose benefits of the Dodge action if you are incapacitated or if your speed drops to 0."
+  },
+  {
+    "label": "Take the Help action to give an ally advantage on their next ability check, or maybe even their next attack roll!"
+  },
+  {
+    "label": "The Hide action will let you make a Stealth check to disappear from sight, should the environment allow it."
+  },
+  {
+    "label": "The Ready action will let you act using your reaction before your next turn."
+  },
+  {
+    "label": "To Ready an action, you must specify both a triggering circumstance and what you will do when it happens."
+  },
+  {
+    "label": "When the trigger for a readied action occurs, you can either take the action or ignore the trigger."
+  },
+  {
+    "label": "To ready a spell, it must have a casting time of 1 action, and holding it until you’re ready to cast requires concentration."
+  },
+  {
+    "label": "The Search action may let you use a Perception check or an Investigation check to look around."
+  },
+  {
+    "label": "In lightly obscured areas (e.g. dim light, patchy fog, or modest foliage), Perception checks with sight have disadvantage."
+  },
+  {
+    "label": "In heavily obscured areas (e.g. darkness, opaque fog, or dense foliage), creatures are effectively blinded."
+  },
+  {
+    "label": "Bright light, provided by daylight and most light sources within a certain radius, lets most creatures see normally."
+  },
+  {
+    "label": "Dim light, provided by dawn, dusk, and a full moon, is normally a boundary between bright light and darkness."
+  },
+  {
+    "label": "Darkness, provided by nighttime, unlit areas, or magical darkness, keeps most creatures from seeing normally."
+  },
+  {
+    "label": "A creature with blindsight can perceive its surroundings without sight, kinda like Daredevil."
+  },
+  {
+    "label": "Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light."
+  },
+  {
+    "label": "A creature with darkvision can’t discern color in darkness, only monochromatic shades."
+  },
+  {
+    "label": "Within a specified range, a creature with truesight can see pretty much everything. Yes, even that, you weirdo."
+  },
+  {
+    "label": "At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6."
+  },
+  {
+    "label": "Unless it avoids taking damage from a fall, a creature lands prone at the end of that fall."
+  },
+  {
+    "label": "A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds)."
+  },
+  {
+    "label": "When a creature has no air, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round)."
+  },
+  {
+    "label": "When it can no longer survive without air, a suffocating creature drops to 0 hit points and is dying."
+  },
+  {
+    "label": "A suffocating creature can’t regain hit points or be stabilized until it can breathe again."
+  },
+  {
+    "label": "Until you are discovered or stop hiding, your Stealth check is contested by Perception checks of anyone actively searching."
+  },
+  {
+    "label": "Passive Perception determines if a creature notices something even if they’re not actively searching for it."
+  },
+  {
+    "label": "You can’t hide from a creature that can see you clearly, and you give away your position if you make noise."
+  },
+  {
+    "label": "A party traveling at a slow pace goes 200 feet in a minute, 2 miles in an hour, and 18 miles in a day."
+  },
+  {
+    "label": "A party traveling at a slow pace can use Stealth as they move."
+  },
+  {
+    "label": "A party traveling at a normal pace goes 300 feet in a minute, 3 miles in an hour, and 24 miles in a day."
+  },
+  {
+    "label": "A party traveling at a fast pace goes 400 feet in a minute, 4 miles in an hour, and 30 miles in a day."
+  },
+  {
+    "label": "A party traveling at a fast pace will suffer a -5 penalty to passive Perception scores."
+  },
+  {
+    "label": "To cast a spell, you must expend a slot of its level or higher.\nCantrips come for free."
+  },
+  {
+    "label": "To cast a spell with a somatic component, you need free use of at least one hand to perform the gestures."
+  },
+  {
+    "label": "To cast a spell with a verbal component, you need to be able to speak."
+  },
+  {
+    "label": "To cast a spell with costless material components, you need those components, a component pouch, or a spellcasting focus."
+  },
+  {
+    "label": "To cast a spell with material components that have costs, you need to have those specific components."
+  },
+  {
+    "label": "If a spell states that a material component is consumed by the spell, you must provide that component for each casting."
+  },
+  {
+    "label": "Some spells require concentration to maintain an ongoing effect, and you can’t concentrate on two spells at once."
+  },
+  {
+    "label": "To keep concentration, roll a Constitution save if you take damage. The DC is 10 or half the damage, whichever is higher."
+  },
+  {
+    "label": "You can’t concentrate if you’re incapacitated or dead. Do we really have to spell that one out for you? Geez."
+  },
+  {
+    "label": "You may need to make a DC 10 Constitution save to maintain spell concentration if your surroundings are distracting."
+  },
+  {
+    "label": "Your attack bonus with spells equals your spellcasting ability modifier plus your proficiency bonus."
+  },
+  {
+    "label": "Your spell save DC equals your spellcasting ability modifier plus your proficiency bonus plus 8."
+  },
+  {
+    "label": "If your spell has an attack, you roll. If your spell has a save, the enemy rolls."
+  },
+  {
+    "label": "Long rests restore all expended spell slots, although a few class options can get some back with a short rest."
+  },
+  {
+    "label": "If you’re wearing armor, you need to be proficient in that armor in order to cast spells."
+  },
+  {
+    "label": "Some spells can be cast at higher levels for more powerful effects, and some cantrips get more powerful at higher levels."
+  },
+  {
+    "label": "Some spells can be cast as a rituals. Doing so takes 10 minutes longer but doesn’t expend a spell slot."
+  },
+  {
+    "label": "Some spells can have different areas of effect in all sorts of shapes and sizes."
+  },
+  {
+    "label": "Most spells have a range that specify what you can target.\nSome can only affect you."
+  },
+  {
+    "label": "The effects of the same spell cast multiple times don’t stack."
+  },
+  {
+    "label": "The effects of different spells add together while the durations of those spells overlap."
+  },
+  {
+    "label": "if you cast a spell as a bonus action, you can't cast a non- cantrip spell during your turn."
+  },
+  {
+    "label": "Some spellcasters know their spells and can always cast them.\nOther classes need to prepare spells from a list."
+  },
+  {
+    "label": "For spells that take longer than an action to cast, you must spend your action each turn concentrating and casting it."
+  },
+  {
+    "label": "There’s more to a fight than just attacking! Consult your DM for other actions you can take in combat."
+  },
+  {
+    "label": "Initiative determines turn order in combat. Your initiative bonus is usually just your Dexterity modifier."
+  },
+  {
+    "label": "A round of combat roughly translates to 6 seconds of in- game time."
+  },
+  {
+    "label": "If you are vulnerable to a damage type, you take double damage from that type."
+  },
+  {
+    "label": "If you are resistant to a damage type, you take half damage from that type."
+  },
+  {
+    "label": "Multiple instances of vulnerability or resistance only count once each."
+  },
+  {
+    "label": "If you roll a 1 on an attack roll, you automatically miss your attack."
+  },
+  {
+    "label": "If you roll a 20 on an attack roll, you automatically hit and roll all of the damage dice twice before adding modifiers."
+  },
+  {
+    "label": "Ranged attacks have disadvantage if the target is beyond regular range but still within long range."
+  },
+  {
+    "label": "Ranged attacks cannot hit targets outside of the weapon’s long range."
+  },
+  {
+    "label": "Your ranged attack rolls have disadvantage if an enemy that isn’t incapacitated is within 5 feet of you and can see you."
+  },
+  {
+    "label": "When you reduce a creature to 0 hit points with a melee attack, you can decide to knock it out instead of killing it."
+  },
+  {
+    "label": "A target with half cover has a +2 bonus to AC and Dexterity saving throws."
+  },
+  {
+    "label": "A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws."
+  },
+  {
+    "label": "A target with total cover can’t be targeted directly by an attack or a spell, though area of effect spells are fair game."
+  },
+  {
+    "label": "Using the attack action, you can make a melee attack to shove a creature, either to knock it prone or push it away."
+  },
+  {
+    "label": "To push a target, it must be no more than one size larger than you and must be within your reach."
+  },
+  {
+    "label": "To push a target, you make an Athletics check contested by the target’s Athletics or Acrobatics check."
+  },
+  {
+    "label": "To make a melee attack against a creature, it must be within your reach. Most creatures have a 5-foot reach."
+  },
+  {
+    "label": "You can use an unarmed strike to make a melee attack without a weapon."
+  },
+  {
+    "label": "You are proficient in your unarmed strikes, and they deal bludgeoning damage equal to 1 + your Strength modifier."
+  },
+  {
+    "label": "You can use a bonus action to attack with a light melee weapon after attacking with one in your other hand."
+  },
+  {
+    "label": "When two-weapon fighting, only add your modifier to the damage of the second attack if it’s negative."
+  },
+  {
+    "label": "Using the Attack action, you can make a melee attack to grapple a creature if you have one free hand."
+  },
+  {
+    "label": "To grapple a target, it must be no more than one size larger than you and must be within your reach."
+  },
+  {
+    "label": "To grapple a target, you make an Athletics check contested by the target’s Athletics or Acrobatics check."
+  },
+  {
+    "label": "Unless the creature you are grappling is much smaller than you, your speed is halved while dragging or carrying it."
+  },
+  {
+    "label": "A Grappled creature can use its action to escape, making an Athletics or Acrobatics check contested by an Athletics check."
+  },
+  {
+    "label": "You have disadvantage on attacks against creatures that you cannot see."
+  },
+  {
+    "label": "You have advantage on attacks against creatures that cannot see you."
+  },
+  {
+    "label": "Have an impairing condition? Ask your DM what it means. You might have to change up your strategy."
+  },
+  {
+    "label": "A blinded creature can’t see and automatically fails all checks that requires sight."
+  },
+  {
+    "label": "A blinded creature’s attack rolls have disadvantage, and attack rolls against them have advantage."
+  },
+  {
+    "label": "A charmed creature cannot target their charmer with attack rolls or any harmful abilities or magic."
+  },
+  {
+    "label": "The charmer has advantage on any ability check used to interact socially with their charmed creature."
+  },
+  {
+    "label": "A deafened creature can’t hear and automatically fails any ability check that requires hearing."
+  },
+  {
+    "label": "A frightened creature has disadvantage on ability checks and attack rolls if the source of its fear is within line of sight."
+  },
+  {
+    "label": "A frightened creature can’t willingly move closer to the source of its fear."
+  },
+  {
+    "label": "A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed."
+  },
+  {
+    "label": "The grappled condition ends if the grappler is incapacitated or an effect moves the grappled creature out of reach."
+  },
+  {
+    "label": "An incapacitated creature can’t take actions or reactions. This often happens in conjunction with other conditions."
+  },
+  {
+    "label": "An invisible creature is impossible to see without the aid of magic or a special sense."
+  },
+  {
+    "label": "With regards to hiding, an invisible creature is heavily obscured. It may be detected by any noise or tracks it creates."
+  },
+  {
+    "label": "Attack rolls against an invisible creature have disadvantage, and its attack rolls have advantage."
+  },
+  {
+    "label": "A paralyzed creature, in addition to being incapacitated, can’t move or speak."
+  },
+  {
+    "label": "Attack rolls against a paralyzed creature have advantage, and attack that hits is a crit if the attacker is within 5 feet."
+  },
+  {
+    "label": "A paralyzed creature fails Strength and Dexterity saving throws."
+  },
+  {
+    "label": "A petrified creature is made of a solid inanimate substance, as are all nonmagical objects it is wearing or carrying."
+  },
+  {
+    "label": "A petrified creature is ten times heavier and does not age while petrified."
+  },
+  {
+    "label": "A petrified creature, in addition to being incapacitated, can’t move or speak, and is unaware of its surroundings."
+  },
+  {
+    "label": "A petrified creature fails Strength and Dexterity saving throws."
+  },
+  {
+    "label": "A petrified creature is immune to poison and disease."
+  },
+  {
+    "label": "Attack rolls against a petrified creature have advantage, though the creature has resistance to all damage."
+  },
+  {
+    "label": "A poisoned creature has disadvantage on attack rolls and ability checks."
+  },
+  {
+    "label": "A prone creature’s only movement options are crawling or using half their movement speed to stand up."
+  },
+  {
+    "label": "An attack roll against a prone creature has advantage if the attacker is within 5 feet – otherwise, it has disadvantage."
+  },
+  {
+    "label": "A prone creature has disadvantage on all of its attack rolls until it stands up and ends the condition."
+  },
+  {
+    "label": "A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed."
+  },
+  {
+    "label": "Attack rolls against a restrained creature have advantage, and the creature’s attack rolls have disadvantage."
+  },
+  {
+    "label": "A restrained creature has disadvantage on Dexterity saving throws."
+  },
+  {
+    "label": "A stunned creature, in addition to being incapacitated, can’t move and can speak only falteringly."
+  },
+  {
+    "label": "A stunned creature fails Strength and Dexterity saving throws, and attack rolls against it have advantage."
+  },
+  {
+    "label": "An unconscious creature, in addition to being incapacitated, can’t move or speak and is unaware of its surroundings."
+  },
+  {
+    "label": "When a creature becomes unconscious, it drops whatever it is holding and falls prone."
+  },
+  {
+    "label": "An unconscious creature fails Strength and Dexterity saving throws, and attack rolls against it have advantage."
+  },
+  {
+    "label": "An attack roll that hits an unconscious creature is a crit if the attacker is within 5 feet of the creature."
+  },
+  {
+    "label": "At the first level of exhaustion, you have disadvantage on ability checks."
+  },
+  {
+    "label": "At the second level of exhaustion, in addition to prior effects, your speed is halved."
+  },
+  {
+    "label": "At the third level of exhaustion, in addition to prior effects, you have disadvantage on attack rolls and saving throws."
+  },
+  {
+    "label": "At the fourth level of exhaustion, in addition to prior effects, your hit point maximum is halved."
+  },
+  {
+    "label": "At the fifth level of exhaustion, in addition to prior effects, your speed is reduced to 0."
+  },
+  {
+    "label": "At the sixth level of exhaustion, you no longer suffer prior effects! You do, however, die immediately."
+  },
+  {
+    "label": "Long rests reduce your exhaustion level by 1, provided that you had some food and drink."
+  },
+  {
+    "label": "Underwater, your melee weapon attacks have disadvantage – unless you have a swimming speed or the right weapon."
+  },
+  {
+    "label": "Underwater, daggers, javelins, shortswords, spears, and tridents do not automatically have disadvantage."
+  },
+  {
+    "label": "Underwater, ranged weapons automatically miss outside of their normal range."
+  },
+  {
+    "label": "Underwater, ranged weapons have disadvantage, unless the weapon is a crossbow, a net, or a thrown weapon."
+  },
+  {
+    "label": "Creatures and objects that are fully immersed in water have resistance to fire damage."
+  },
+  {
+    "label": "Any willing creature that is at least one size larger than you and that has an appropriate anatomy can be your mount."
+  },
+  {
+    "label": "Once during your move, you can mount a creature within 5 feet or dismount. Doing so costs half your movement speed."
+  },
+  {
+    "label": "If an effect moves your mount against its will while you're on it, you must make a DC 10 Dexterity saving throw or fall off."
+  },
+  {
+    "label": "If an effect knocks you prone while you’re mounted, you must make a DC 10 Dexterity saving throw or fall off."
+  },
+  {
+    "label": "If you are knocked off of your mount, you land prone in a space within 5 feet of it.\nYou can use your reaction to avoid this."
+  },
+  {
+    "label": "If your mount is knocked prone, you can use your reaction to dismount as it falls and land on your feet."
+  },
+  {
+    "label": "While mounted, you can either control your mount if it’s been trained to accept a rider or have it act independently."
+  },
+  {
+    "label": "Intelligent creatures, like dragons, sphinxes, and especially smart horses, act independently when used as a mount."
+  },
+  {
+    "label": "Controlled mounts match your initiative order when you mount them and can move and act as soon as you mount them."
+  },
+  {
+    "label": "Controlled mounts can only take three actions: Dash, Disengage, and Dodge."
+  },
+  {
+    "label": "Independent mounts maintain their own initiative order. They move and act as they wish, not restricted by their riders."
+  },
+  {
+    "label": "If your mount provokes an attack of opportunity while you’re on it, the attacker can target either you or the mount."
+  },
+  {
+    "label": "Your carrying capacity is, in pounds, your Strength score multiplied by 15."
+  },
+  {
+    "label": "You can push, drag, or lift a weight in pounds up to your Strength score multiplied by 30."
+  },
+  {
+    "label": "While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet."
+  },
+  {
+    "label": "Rules for lifting and carrying are intentionally simple. If they’re too easy, you can use the variant encumbrance rules."
+  },
+  {
+    "label": "When using the variant encumbrance rules, ignore the strength column of the Armor table."
+  },
+  {
+    "label": "If you carry weight in excess of 5 times your Strength score, you are encumbered, which means your speed drops by 10 feet."
+  },
+  {
+    "label": "If you carry weight in excess of 10 times your Strength score, you are heavily encumbered."
+  },
+  {
+    "label": "While you are heavily encumbered, your speed drops by 20 feet."
+  },
+  {
+    "label": "While you are heavily encumbered, you have disadvantage on all rolls that use Strength, Dexterity, or Constitution."
+  },
+  {
+    "label": "Weapons with the Ammunition property need some kind of ammo to be used, and each attack expends one piece of ammo."
+  },
+  {
+    "label": "After combat, you can recover half of your expended ammunition by taking the Search action."
+  },
+  {
+    "label": "A weapon with the Finesse property can be used with either your Dexterity or Strength modifier."
+  },
+  {
+    "label": "A weapon with the Heavy property will impose disadvantage on Small creatures attempting to use it."
+  },
+  {
+    "label": "A weapon with the Light property can be used in with two- weapon fighting."
+  },
+  {
+    "label": "A weapon with the Loading property can only be fired once when you use an action, bonus action, or reaction."
+  },
+  {
+    "label": "A weapon with the Range property can be used to make ranged attacks."
+  },
+  {
+    "label": "A weapon with the Reach property adds 5 feet to your reach for the purposes of attacks and opportunity attacks with it."
+  },
+  {
+    "label": "A weapon with the Thrown property can be thrown as a ranged attack, using the same modifier as its melee attack."
+  },
+  {
+    "label": "A weapon with the Two-Handed property requires two hands when you attack with it."
+  },
+  {
+    "label": "A weapon with the Versatile property can be used with one hand, but if you want more damage, you can use two hands."
+  },
+  {
+    "label": "When you switch movement types, subtract the distance you’ve already moved from the new speed."
+  },
+  {
+    "label": "You can break up your movement on your turn, using some of your speed before and after your action."
+  },
+  {
+    "label": "You can squeeze through a space if it’s large enough for a creature one size smaller than you."
+  },
+  {
+    "label": "When squeezing, climbing, swimming, crawling, or being on rough terrain, each foot of movement costs an extra foot."
+  },
+  {
+    "label": "When squeezing through a space, you have disadvantage on attack rolls and Dexterity saving throws.\nYou can’t use ranged weapons."
+  },
+  {
+    "label": "When squeezing through a space, attack rolls made against you have advantage."
+  },
+  {
+    "label": "On long jumps, you cover a number of feet up to your Strength score if you have a 10 foot running start."
+  },
+  {
+    "label": "Long jumps without a running start only cover a number of feet up to half of your Strength score."
+  },
+  {
+    "label": "On high jumps, you cover a number of feet up to 3 + your Strength modifier if you have a 10 foot running start."
+  },
+  {
+    "label": "High jumps without a running start only cover a number of feet up to half of your Strength modifier."
+  },
+  {
+    "label": "There are no negative hit points. If you take damage that exceeds your remaining health, your hit points go to 0."
+  },
+  {
+    "label": "A creature that has died can’t regain hit points until some kind of resurrecting magic has restored it to life."
+  },
+  {
+    "label": "Don’t freak out if you reach 0 hit points! You’re not dead, just dying."
+  },
+  {
+    "label": "At 0 hit points, you start making death saving throws, which have no bonuses you can add. It’s just you and fate."
+  },
+  {
+    "label": "If you roll a 1 on a death saving throw, it counts as two failures."
+  },
+  {
+    "label": "If you roll lower than 10 but higher than 1 on a death saving throw, it counts as a failure."
+  },
+  {
+    "label": "If you take any damage while at 0 Hit Points, even if you’re stable, it counts as a death saving throw failure."
+  },
+  {
+    "label": "After three failed death saving throws, your character is dead."
+  },
+  {
+    "label": "If you roll a 10 or higher on a death saving throw, it counts as a success."
+  },
+  {
+    "label": "If you roll a 20 on a death saving throw, you regain 1 hit point."
+  },
+  {
+    "label": "After three successful death saving throws, you become stable. You’re not dead, just unconscious."
+  },
+  {
+    "label": "If you’re stable, but not healed, you regain 1 hit point after 1d4 hours."
+  },
+  {
+    "label": "A stable creature is no longer stable and must start making death saving throws again if they take damage."
+  },
+  {
+    "label": "You can stabilize a dying creature with a successful DC 10 Medicine check."
+  },
+  {
+    "label": "If you’re at 0 hit points, temporary hit points won’t wake you up. Only real healing can do the job."
+  },
+  {
+    "label": "When damage reduces you to 0 hit points, you die if the extra damage equals or exceeds your hit point maximum."
+  },
+  {
+    "label": "A short rest is at least 1 hour during which you do nothing strenuous."
+  },
+  {
+    "label": "During short rests, you can recover hit points by rolling your hit dice, adding your Constitution modifier each time."
+  },
+  {
+    "label": "A long rest is at least 8 hours during which you do nothing strenuous."
+  },
+  {
+    "label": "During long rests, you can recover all lost hit points and up to half of your total hit dice."
+  },
+  {
+    "label": "You can use time between adventures to tend to poisons, injuries, and diseases."
+  },
+  {
+    "label": "You can use time between adventures to do research and see what mysteries can be unfurled."
+  },
+  {
+    "label": "You can use time between adventures to learn a new language or how to use a new set of tools."
+  },
+  {
+    "label": "According to monster opticians, a beholder’s eyesight is 20:20:20:20:20:20:20:20:20:20:14."
+  },
+  {
+    "label": "Just because you can do it, doesn’t mean you should, but it does mean you probably will."
+  },
+  {
+    "label": "It is entirely valid to take a potion orally or as a suppository."
+  },
+  {
+    "label": "Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes."
+  },
+  {
+    "label": "You can save your progress in D&D by politely asking your DM to remember things."
+  },
+  {
+    "label": "You can start a new save file in D&D by striking your DM on the head with a heavy object."
+  },
+  {
+    "label": "You can pause the game in D&D by standing up and walking away from the table."
+  },
+  {
+    "label": "You can open the options menu in D&D by writing a question on a sheet of paper and discreetly passing it to your DM."
+  },
+  {
+    "label": "You can take a screenshot in D&D by touching your d20, your character sheet, and a pencil at the same time."
+  },
+  {
+    "label": "You can make encounters easier by being more careful, communicating with your party, and bribing the DM."
+  },
+  {
+    "label": "No, please. Roll to seduce an NPC. Your DM is just super excited to roleplay that."
+  },
+  {
+    "label": "Lawful Good doesn’t mean Lawful Nice and Chaotic Neutral doesn’t mean Chaotic Stupid."
+  },
+  {
+    "label": "If your Chaotic Neutral character decides to murder random people, you’re not playing a Neutral character."
+  },
+  {
+    "label": "Contrary to popular belief, for many things in a dungeon, you probably would want to touch it with a ten foot pole first."
+  },
+  {
+    "label": "Lawful characters obey a set of rules and always look both ways before crossing the street."
+  },
+  {
+    "label": "Chaotic characters don’t hold themselves to rules and won’t put their tray tables up just because you told them to."
+  },
+  {
+    "label": "Good characters put others above themselves and will always pay back that money you lent them."
+  },
+  {
+    "label": "Evil characters put themselves above others and will eat the last slice of pizza without asking anyone first."
+  },
+  {
+    "label": "Neutral characters have no particular sway toward a given axis and often list mayonnaise as their favorite condiment."
+  },
+  {
+    "label": "Unaligned creatures don’t comprehend the alignment concept."
+  },
+  {
+    "label": "Winning combat is easy! Just reduce your opponents to 0 hit points while keeping your hit points above 0."
+  },
+  {
+    "label": "Valor pleases you, so grant me one request: play barbarian!"
+  },
+  {
+    "label": "Is your party dull? Are you not flirting with enough NPCs?"
+  },
+  {
+    "label": "Play a cleric if you like worshipping fake gods and being under immense pressure to save the rest of your party."
+  },
+  {
+    "label": "When you play a druid, you can transform into a T-Rex."
+  },
+  {
+    "label": "If it’s your first time playing D&D, you like the simple things, or you’re gonna be on your phone all night, play fighter."
+  },
+  {
+    "label": "Playing monk is a great experience! Just get all the kung fu movie jokes out of your system before the game."
+  },
+  {
+    "label": "Paladins: they’re just like clerics, but with fewer commitment issues and more sharp objects to stab things with."
+  },
+  {
+    "label": "Play ranger to feel the thrill of the hunt, the wind in your hair, and a ferret crawling around in your tunic."
+  },
+  {
+    "label": "I’d give you a good reason to play a rogue, but let’s be honest, your party probably already has 3."
+  },
+  {
+    "label": "Spells rock, but books are for nerds. Play sorcerer to flex your magic and shun silly things like “reading.”"
+  },
+  {
+    "label": "If you play warlock, you have a lot of combat options, like eldritch blast, eldritch blast, and even eldritch blast!"
+  },
+  {
+    "label": "Play a wizard if you want a character who likes writing things down and doing math just as much as you."
+  },
+  {
+    "label": "Abjuration is the school of protective magic, perfect for people who claimed to have a force field in schoolyard games."
+  },
+  {
+    "label": "With Conjuration magic, you can take the D&D tradition of making things up to its logical extreme."
+  },
+  {
+    "label": "You can use Divination magic to absolutely destroy any hopes your DM had of creating mystery and intrigue."
+  },
+  {
+    "label": "Enchantment magic affects the minds of others. If you terrify the rogue with a sudden fireball, it’s technically Enchantment."
+  },
+  {
+    "label": "Evocation manipulates magical energy to produce a desired effect. All spells are secretly Evocation spells, in disguise."
+  },
+  {
+    "label": "Illusion magic deceives the minds of others, which is totally different from Enchantment, and way cooler, mom."
+  },
+  {
+    "label": "Necromancy manipulates life and death energies. You can’t cast these spells unless 60% of your wardrobe is black."
+  },
+  {
+    "label": "Alter the properties of objects with Transmutation and learn the joy of turning everything into a goat."
+  }
+]

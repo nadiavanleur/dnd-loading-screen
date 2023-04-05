@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'AR JULIAN';
+  src: local('AR JULIAN'), local('ARJULIAN'),
+      url('../assets/fonts/ARJULIAN.woff2') format('woff2'),
+      url('../assets/fonts/ARJULIAN.woff') format('woff')
+      url('../assets/fonts/ARJULIAN.ttf') format('ttf');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  // Spacing
+  --spacing-xxs: 4px;
+  --spacing-xs: 8px;
+  --spacing-sm: 16px;
+  --spacing-md: 24px;
+  --spacing-lg: 32px;
+  --spacing-xl: 48px;
+  --spacing-xxl: 64px;
+
+  // Colors
+  --color-white: #fff;
+  --color-gray: #a9a9a9;
+  --color-black: #000;
+
+  // Shadow
+  --shadow: 0 0 var(--spacing-xxs) var(--color-gray);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'AR JULIAN', serif;
+  background-image: url('../assets/images/bg.jpeg');
+  text-shadow: var(--shadow);
+}
+
+.loading {
+  font-size: 5rem;
+  padding: var(--spacing-xs) var(--spacing-sm);
+}
+
+.tips {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100%;
+
+  display: grid;
+  grid-template-columns: 80vw;
+  grid-template-rows: 1fr;
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.tip {
+  grid-column: 1;
+  grid-row: 1;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  opacity: 0;
+  transition: opacity 0.3s;
+
+  &.active {
+    opacity: 1;
+  }
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: auto;
+  padding: var(--spacing-xs);
+  display: flex;
+  justify-content: flex-end;
+
+  svg {
+    width: 150px;
+    height: var(--spacing-xxl);
+    filter: drop-shadow(var(--shadow));
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
