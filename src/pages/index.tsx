@@ -9,13 +9,16 @@ type Tip = {
 }
 
 const IndexPage: React.FC<PageProps> = () => {
-  const generateRandomTip = () => Math.floor(Math.random() * tips.length);
-  const [randomTip, setRandomTip] = React.useState(generateRandomTip());
+  const [randomTip, setRandomTip] = React.useState<number | null>(null);
 
-  setInterval(() => {
+  React.useEffect(() => {
+    const generateRandomTip = () => Math.floor(Math.random() * tips.length);
     setRandomTip(generateRandomTip());
-  }, 15000);
 
+    setInterval(() => {
+      setRandomTip(generateRandomTip());
+    }, 15000);
+  }, []);
 
   return (
     <main>
@@ -23,7 +26,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <h2 className="loading">Loading...</h2>
       <ul className="tips">
         {tips.map((tip: Tip, n: number) => (
-          <li key={n} className={`tip ${randomTip === n ? 'active' : ''}`}>
+          <li key={n} className={`tip ${randomTip === n ? 'active' : 'inactive'}`}>
             {tip.label}
           </li>
         ))}

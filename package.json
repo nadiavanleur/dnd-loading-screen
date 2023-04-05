@@ -12,6 +12,7 @@
     "start": "gatsby develop",
     "build": "rm -rf .cache && gatsby build",
     "serve": "gatsby serve",
+    "bs": "npm run build && npm run serve",
     "clean": "gatsby clean",
     "typecheck": "tsc --noEmit",
     "test": "echo 'Add tests!!'"
