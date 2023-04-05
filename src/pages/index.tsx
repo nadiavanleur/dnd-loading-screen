@@ -29,7 +29,7 @@ const IndexPage: React.FC<PageProps> = () => {
         ))}
       </ul>
       <footer className="footer">
-        <Icon icon="logo" width={100} height={100} />
+        <Icon icon="logo" />
       </footer>
     </main>
   )
