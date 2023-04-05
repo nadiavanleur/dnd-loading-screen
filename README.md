@@ -2,6 +2,8 @@
 
 Simple loading screen based on the well known reddit thread
 
+![Example](https://dndloadingscreen.site/screenshot.jpg)
+
 ### Sources
 
 - https://www.reddit.com/r/DnD/comments/a059qp/comment/eaeor7s/?utm_source=share&utm_medium=web2x&context=3
