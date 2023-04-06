@@ -9,6 +9,11 @@
   font-display: swap;
 }
 
+
+// Screen sizes
+$screen-sm: 30em;
+$screen-md: 45em;
+
 :root {
   // Spacing
   --spacing-xxs: 4px;
@@ -29,7 +34,12 @@
   // Shadow
   --shadow: 0 0 var(--spacing-xxs) var(--color-gray);
 
-  --container-width: minmax(45em, 80vw)
+  // Container
+  --container-width: 80vw;
+
+  @media screen and (min-width: $screen-md) {
+    --container-width: minmax(45em, 80vw);
+  }
 }
 
 * {
@@ -46,8 +56,12 @@ html {
 
 // Loading
 .loading {
-  font-size: 5rem;
+  font-size: 3rem;
   padding: var(--spacing-xs) var(--spacing-sm);
+
+  @media screen and (min-width: $screen-sm) {
+    font-size: 5rem;
+  }
 }
 
 // Container
@@ -95,9 +109,14 @@ html {
   justify-content: flex-end;
 
   svg {
-    width: 150px;
-    height: var(--spacing-xxl);
+    width: 100px;
+    height: var(--spacing-xl);
     filter: drop-shadow(var(--shadow));
+
+    @media screen and (min-width: $screen-sm) {
+      width: 150px;
+      height: var(--spacing-xxl);
+    }
   }
 }
 
