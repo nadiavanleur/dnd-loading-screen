@@ -49,4 +49,4 @@ const IndexPage: React.FC<PageProps> = () => {
 
 export default IndexPage;
 
-export const Head: HeadFC = () => <title>D&D loading screen tips</title>
+export const Head: HeadFC = () => <title>D&D loading screen tips</title>;

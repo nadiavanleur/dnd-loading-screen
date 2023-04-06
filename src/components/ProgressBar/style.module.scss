@@ -31,7 +31,16 @@ progress {
   transform: translate(var(--h-margin), var(--v-margin));
 }
 
-progress::-webkit-progress-value,
+// Progress bar
+progress::-webkit-progress-bar {
+  background: var(--color-red-dark);
+}
+
+// Value
 ::-moz-progress-bar {
   background: var(--color-red);
+}
+
+::-webkit-progress-value {
+  background: linear-gradient(var(--color-red), var(--color-red));
 }

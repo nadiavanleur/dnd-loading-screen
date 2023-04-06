@@ -16,7 +16,15 @@ const config: GatsbyConfig = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        "icon": "src/assets/images/icon.png"
+        icon: "src/assets/images/icon.png",
+        name: `Dungeons and Dragons loading screen tips`,
+        short_name: `D&D loading screen tips`,
+        description: `Dungeon Masters can't know everything and sometimes need to look things up. Inspired by /u/CountedCrow this loading screen / screensaver was made. You can put this on a screen at your D&D table to give your players something to talk about while you prepare the next encounter.`,
+        keywords: `dungeons and dragons, dnd, loading screen, tips, DM resources, dungeon master`,
+        author: `/u/nachowithan_a <contact@dndloadingscreen.site>`,
+        start_url: `/`,
+        theme_color: `#170304`,
+        display: `standalone`,
       }
     },
     "gatsby-plugin-sharp",
@@ -49,6 +57,14 @@ const config: GatsbyConfig = {
       },
     },
     `gatsby-transformer-inline-svg`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-WE7B23C41M", // Google Analytics / GA
+        ],
+      },
+    }
   ]
 };
 

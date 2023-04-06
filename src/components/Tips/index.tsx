@@ -1,5 +1,5 @@
 import React from 'react';
-import tips from "../../data/tips.json"
+import tips from '../../../static/data/tips.json';
 import * as style from './style.module.scss';
 
 type Tip = {

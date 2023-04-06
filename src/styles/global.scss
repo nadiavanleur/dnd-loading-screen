@@ -2,11 +2,12 @@
 
 @font-face {
   font-family: 'AR JULIAN';
-  src: local('AR JULIAN'), local('ARJULIAN'),
-      url('../assets/fonts/ARJULIAN.woff2') format('woff2'),
-      url('../assets/fonts/ARJULIAN.woff') format('woff')
-      url('../assets/fonts/ARJULIAN.ttf') format('ttf');
-  font-weight: 100;
+  src:
+      local('AR JULIAN'),
+      local('ARJULIAN'),
+      url('/fonts/ARJULIAN.woff2') format('woff2'),
+      url('/fonts/ARJULIAN.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }

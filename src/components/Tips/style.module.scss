@@ -9,6 +9,8 @@
 }
 
 .tip {
+  position: relative;
+  z-index: -1;
   grid-column: 1;
   grid-row: 1;
   width: 100%;
@@ -16,11 +18,10 @@
   font-size: 2rem;
   opacity: 0;
   transition: opacity 0.3s;
-  pointer-events: none;
   white-space: pre-line;
-  cursor: default;
 
   &.active {
     opacity: 1;
+    z-index: 0;
   }
 }
