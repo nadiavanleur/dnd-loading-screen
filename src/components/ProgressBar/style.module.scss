@@ -1,6 +1,8 @@
 .container {
   position: relative;
   width: 100%;
+  max-width: 100%;
+  min-height: var(--spacing-sm);
   aspect-ratio: 996 / 28;
 
   &::after {
@@ -18,12 +20,12 @@
 }
 
 progress {
-  --h-margin: 15px;
-  --v-margin: 3px;
+  --h-margin: 2%;
+  --v-margin: 10%;
   display: block;
   appearance: none;
   width: calc(100% - var(--h-margin) * 2);
-  height: calc(100% - var(--v-margin) * 2);;
+  height: calc(100% - var(--v-margin) * 2);
   border: none;
   background: var(--color-red-dark);
   transform: translate(var(--h-margin), var(--v-margin));
