@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@svgr/webpack": "^7.0.0",
+    "css-loader": "^6.7.3",
     "gatsby": "^5.8.1",
     "gatsby-plugin-google-gtag": "^5.8.0",
     "gatsby-plugin-image": "^3.8.0",
@@ -32,14 +33,20 @@
     "gatsby-source-filesystem": "^5.8.0",
     "gatsby-transformer-inline-svg": "^1.2.0",
     "gatsby-transformer-sharp": "^5.8.0",
+    "node-sass": "^8.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.60.0"
+    "sass": "^1.60.0",
+    "typed-css-modules": "^0.7.2",
+    "typed-scss-modules": "^7.1.0",
+    "typings-for-css-modules-loader": "^1.7.0"
   },
   "devDependencies": {
     "@types/node": "^18.15.11",
+    "@types/node-sass": "^4.11.3",
     "@types/react": "^18.0.31",
     "@types/react-dom": "^18.0.11",
+    "css-modules-typescript-loader": "^4.0.1",
     "typescript": "^5.0.3"
   }
 }
