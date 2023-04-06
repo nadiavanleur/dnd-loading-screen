@@ -24,46 +24,46 @@
     "label": "For attack rolls, your success is measured by whether you were able to roll higher than an Armor Class, or AC."
   },
   {
-    "label": "This is game is tabletop, and your DM’s responses aren’t programmed. Think outside the box!"
+    "label": "This is game is tabletop, and your DM’s responses aren’t programmed. \nThink outside the box!"
   },
   {
-    "label": "Be cautious and intelligent, and think things through. D&D does not let you restore from save files."
+    "label": "Be cautious and intelligent, and think things through. \nD&D does not let you restore from save files."
   },
   {
-    "label": "Don’t be afraid of a retreat if combat isn’t going well. It may seem cowardly, but cowardice is usually preferable to death."
+    "label": "Don’t be afraid of a retreat if combat isn’t going well. \nIt may seem cowardly, but cowardice is usually preferable to death."
   },
   {
     "label": "When the DM asks you “Really? Are you sure?”, you should always say “No.”"
   },
   {
-    "label": "Keep track of your buffs, bonuses, abilities, and penalties. Your DM can’t remember everything."
+    "label": "Keep track of your buffs, bonuses, abilities, and penalties. \nYour DM can’t remember everything."
   },
   {
-    "label": "The DM’s role is to play with the players, not against them.\nAs far as you know, anyway."
+    "label": "The DM’s role is to play with the players, not against them. \nAs far as you know, anyway."
   },
   {
-    "label": "DMs are always hungry. Bring them food and they may well have mercy on your character."
+    "label": "DMs are always hungry. \nBring them food and they may well have mercy on your character."
   },
   {
     "label": "No matter how much fun you’re having, remember that you’re not the only person at the table."
   },
   {
-    "label": "Try to use your social skills often. Violence isn’t always the answer, and maybe that monster can be reasoned with."
+    "label": "Try to use your social skills often. \nViolence isn’t always the answer, and maybe that monster can be reasoned with."
   },
   {
-    "label": "Be sure to take notes on the lore and history of the world.\nSomeone probably worked very hard on it."
+    "label": "Be sure to take notes on the lore and history of the world. \nSomeone probably worked very hard on it."
   },
   {
-    "label": "DMs love to put traps everywhere. Have your local rogue check around to find and dismantle them."
+    "label": "DMs love to put traps everywhere. \nHave your local rogue check around to find and dismantle them."
   },
   {
     "label": "Get into roleplaying! You might earn an inspiration point, which you can use to get advantage on a future roll."
   },
   {
-    "label": "Each coin is worth 10 coins of the next lowest denomination.\nElectrum, the worst coin ever, is the exception."
+    "label": "Each coin is worth 10 coins of the next lowest denomination. \nElectrum, the worst coin ever, is the exception."
   },
   {
-    "label": "If you are proficient with something, add your proficiency bonus to the roll. Duh."
+    "label": "If you are proficient with something, add your proficiency bonus to the roll. \nDuh."
   },
   {
     "label": "If the campaign is getting too serious for you, recall that DMs often struggle to keep things serious at taverns."
@@ -102,7 +102,7 @@
     "label": "With ability checks, rolling a 1 or a 20 does not automatically determine success or failure."
   },
   {
-    "label": "Use Perception checks often to see what’s going on. Or, you know, you can just be oblivious. Up to you."
+    "label": "Use Perception checks often to see what’s going on. \nOr, you know, you can just be oblivious. \nUp to you."
   },
   {
     "label": "Suspicious of that NPC’s intent? Roll an Insight check and become even more suspicious!"
@@ -123,7 +123,7 @@
     "label": "Animal Handling checks! They’re good for seeing if you can mount that random creature and…not much else, honestly."
   },
   {
-    "label": "Sleight of Hand checks are great for stealing things. Do them all the time! There’s nothing annoying about them!"
+    "label": "Sleight of Hand checks are great for stealing things. \nDo them all the time! There’s nothing annoying about them!"
   },
   {
     "label": "An Acrobatics check may be used if you need delicate finesse of motion – or if you really, really want to show off."
@@ -144,7 +144,7 @@
     "label": "Religion checks will let you recall lore about different faiths, but it won’t erase the feeling of sin in your heart."
   },
   {
-    "label": "Medicine checks will let you diagnose an illness or stabilize someone. They cannot heal people. Please stop asking."
+    "label": "Medicine checks will let you diagnose an illness or stabilize someone. \nThey cannot heal people. \nPlease stop asking."
   },
   {
     "label": "Nature checks are nice for knowing stuff about the wild, but you’ll need Survival if you want it to not kill you."
@@ -162,7 +162,7 @@
     "label": "If a skill contest results in a tie, the situation before the contest remains unchanged."
   },
   {
-    "label": "In a group check, everybody in the group rolls. If at least half the group succeeds, the check is a success."
+    "label": "In a group check, everybody in the group rolls. \nIf at least half the group succeeds, the check is a success."
   },
   {
     "label": "Until your next turn, you only get 1 reaction, 1 action, and 1 bonus action."
@@ -210,10 +210,10 @@
     "label": "The Search action may let you use a Perception check or an Investigation check to look around."
   },
   {
-    "label": "In lightly obscured areas (e.g. dim light, patchy fog, or modest foliage), Perception checks with sight have disadvantage."
+    "label": "In lightly obscured areas (e.g. \ndim light, patchy fog, or modest foliage), Perception checks with sight have disadvantage."
   },
   {
-    "label": "In heavily obscured areas (e.g. darkness, opaque fog, or dense foliage), creatures are effectively blinded."
+    "label": "In heavily obscured areas (e.g. \ndarkness, opaque fog, or dense foliage), creatures are effectively blinded."
   },
   {
     "label": "Bright light, provided by daylight and most light sources within a certain radius, lets most creatures see normally."
@@ -234,7 +234,7 @@
     "label": "A creature with darkvision can’t discern color in darkness, only monochromatic shades."
   },
   {
-    "label": "Within a specified range, a creature with truesight can see pretty much everything. Yes, even that, you weirdo."
+    "label": "Within a specified range, a creature with truesight can see pretty much everything. \nYes, even that, you weirdo."
   },
   {
     "label": "At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6."
@@ -279,7 +279,7 @@
     "label": "A party traveling at a fast pace will suffer a -5 penalty to passive Perception scores."
   },
   {
-    "label": "To cast a spell, you must expend a slot of its level or higher.\nCantrips come for free."
+    "label": "To cast a spell, you must expend a slot of its level or higher. \nCantrips come for free."
   },
   {
     "label": "To cast a spell with a somatic component, you need free use of at least one hand to perform the gestures."
@@ -300,10 +300,10 @@
     "label": "Some spells require concentration to maintain an ongoing effect, and you can’t concentrate on two spells at once."
   },
   {
-    "label": "To keep concentration, roll a Constitution save if you take damage. The DC is 10 or half the damage, whichever is higher."
+    "label": "To keep concentration, roll a Constitution save if you take damage. \nThe DC is 10 or half the damage, whichever is higher."
   },
   {
-    "label": "You can’t concentrate if you’re incapacitated or dead. Do we really have to spell that one out for you? Geez."
+    "label": "You can’t concentrate if you’re incapacitated or dead. \nDo we really have to spell that one out for you? Geez."
   },
   {
     "label": "You may need to make a DC 10 Constitution save to maintain spell concentration if your surroundings are distracting."
@@ -315,7 +315,7 @@
     "label": "Your spell save DC equals your spellcasting ability modifier plus your proficiency bonus plus 8."
   },
   {
-    "label": "If your spell has an attack, you roll. If your spell has a save, the enemy rolls."
+    "label": "If your spell has an attack, you roll. \nIf your spell has a save, the enemy rolls."
   },
   {
     "label": "Long rests restore all expended spell slots, although a few class options can get some back with a short rest."
@@ -327,13 +327,13 @@
     "label": "Some spells can be cast at higher levels for more powerful effects, and some cantrips get more powerful at higher levels."
   },
   {
-    "label": "Some spells can be cast as a rituals. Doing so takes 10 minutes longer but doesn’t expend a spell slot."
+    "label": "Some spells can be cast as a rituals. \nDoing so takes 10 minutes longer but doesn’t expend a spell slot."
   },
   {
     "label": "Some spells can have different areas of effect in all sorts of shapes and sizes."
   },
   {
-    "label": "Most spells have a range that specify what you can target.\nSome can only affect you."
+    "label": "Most spells have a range that specify what you can target. \nSome can only affect you."
   },
   {
     "label": "The effects of the same spell cast multiple times don’t stack."
@@ -345,7 +345,7 @@
     "label": "if you cast a spell as a bonus action, you can't cast a non- cantrip spell during your turn."
   },
   {
-    "label": "Some spellcasters know their spells and can always cast them.\nOther classes need to prepare spells from a list."
+    "label": "Some spellcasters know their spells and can always cast them. \nOther classes need to prepare spells from a list."
   },
   {
     "label": "For spells that take longer than an action to cast, you must spend your action each turn concentrating and casting it."
@@ -354,7 +354,7 @@
     "label": "There’s more to a fight than just attacking! Consult your DM for other actions you can take in combat."
   },
   {
-    "label": "Initiative determines turn order in combat. Your initiative bonus is usually just your Dexterity modifier."
+    "label": "Initiative determines turn order in combat. \nYour initiative bonus is usually just your Dexterity modifier."
   },
   {
     "label": "A round of combat roughly translates to 6 seconds of in- game time."
@@ -405,7 +405,7 @@
     "label": "To push a target, you make an Athletics check contested by the target’s Athletics or Acrobatics check."
   },
   {
-    "label": "To make a melee attack against a creature, it must be within your reach. Most creatures have a 5-foot reach."
+    "label": "To make a melee attack against a creature, it must be within your reach. \nMost creatures have a 5-foot reach."
   },
   {
     "label": "You can use an unarmed strike to make a melee attack without a weapon."
@@ -441,7 +441,7 @@
     "label": "You have advantage on attacks against creatures that cannot see you."
   },
   {
-    "label": "Have an impairing condition? Ask your DM what it means. You might have to change up your strategy."
+    "label": "Have an impairing condition? Ask your DM what it means. \nYou might have to change up your strategy."
   },
   {
     "label": "A blinded creature can’t see and automatically fails all checks that requires sight."
@@ -471,13 +471,13 @@
     "label": "The grappled condition ends if the grappler is incapacitated or an effect moves the grappled creature out of reach."
   },
   {
-    "label": "An incapacitated creature can’t take actions or reactions. This often happens in conjunction with other conditions."
+    "label": "An incapacitated creature can’t take actions or reactions. \nThis often happens in conjunction with other conditions."
   },
   {
     "label": "An invisible creature is impossible to see without the aid of magic or a special sense."
   },
   {
-    "label": "With regards to hiding, an invisible creature is heavily obscured. It may be detected by any noise or tracks it creates."
+    "label": "With regards to hiding, an invisible creature is heavily obscured. \nIt may be detected by any noise or tracks it creates."
   },
   {
     "label": "Attack rolls against an invisible creature have disadvantage, and its attack rolls have advantage."
@@ -588,7 +588,7 @@
     "label": "Any willing creature that is at least one size larger than you and that has an appropriate anatomy can be your mount."
   },
   {
-    "label": "Once during your move, you can mount a creature within 5 feet or dismount. Doing so costs half your movement speed."
+    "label": "Once during your move, you can mount a creature within 5 feet or dismount. \nDoing so costs half your movement speed."
   },
   {
     "label": "If an effect moves your mount against its will while you're on it, you must make a DC 10 Dexterity saving throw or fall off."
@@ -597,7 +597,7 @@
     "label": "If an effect knocks you prone while you’re mounted, you must make a DC 10 Dexterity saving throw or fall off."
   },
   {
-    "label": "If you are knocked off of your mount, you land prone in a space within 5 feet of it.\nYou can use your reaction to avoid this."
+    "label": "If you are knocked off of your mount, you land prone in a space within 5 feet of it. \nYou can use your reaction to avoid this."
   },
   {
     "label": "If your mount is knocked prone, you can use your reaction to dismount as it falls and land on your feet."
@@ -615,7 +615,7 @@
     "label": "Controlled mounts can only take three actions: Dash, Disengage, and Dodge."
   },
   {
-    "label": "Independent mounts maintain their own initiative order. They move and act as they wish, not restricted by their riders."
+    "label": "Independent mounts maintain their own initiative order. \nThey move and act as they wish, not restricted by their riders."
   },
   {
     "label": "If your mount provokes an attack of opportunity while you’re on it, the attacker can target either you or the mount."
@@ -630,7 +630,7 @@
     "label": "While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet."
   },
   {
-    "label": "Rules for lifting and carrying are intentionally simple. If they’re too easy, you can use the variant encumbrance rules."
+    "label": "Rules for lifting and carrying are intentionally simple. \nIf they’re too easy, you can use the variant encumbrance rules."
   },
   {
     "label": "When using the variant encumbrance rules, ignore the strength column of the Armor table."
@@ -693,7 +693,7 @@
     "label": "When squeezing, climbing, swimming, crawling, or being on rough terrain, each foot of movement costs an extra foot."
   },
   {
-    "label": "When squeezing through a space, you have disadvantage on attack rolls and Dexterity saving throws.\nYou can’t use ranged weapons."
+    "label": "When squeezing through a space, you have disadvantage on attack rolls and Dexterity saving throws. \nYou can’t use ranged weapons."
   },
   {
     "label": "When squeezing through a space, attack rolls made against you have advantage."
@@ -711,7 +711,7 @@
     "label": "High jumps without a running start only cover a number of feet up to half of your Strength modifier."
   },
   {
-    "label": "There are no negative hit points. If you take damage that exceeds your remaining health, your hit points go to 0."
+    "label": "There are no negative hit points. \nIf you take damage that exceeds your remaining health, your hit points go to 0."
   },
   {
     "label": "A creature that has died can’t regain hit points until some kind of resurrecting magic has restored it to life."
@@ -720,7 +720,7 @@
     "label": "Don’t freak out if you reach 0 hit points! You’re not dead, just dying."
   },
   {
-    "label": "At 0 hit points, you start making death saving throws, which have no bonuses you can add. It’s just you and fate."
+    "label": "At 0 hit points, you start making death saving throws, which have no bonuses you can add. \nIt’s just you and fate."
   },
   {
     "label": "If you roll a 1 on a death saving throw, it counts as two failures."
@@ -741,7 +741,7 @@
     "label": "If you roll a 20 on a death saving throw, you regain 1 hit point."
   },
   {
-    "label": "After three successful death saving throws, you become stable. You’re not dead, just unconscious."
+    "label": "After three successful death saving throws, you become stable. \nYou’re not dead, just unconscious."
   },
   {
     "label": "If you’re stable, but not healed, you regain 1 hit point after 1d4 hours."
@@ -753,7 +753,7 @@
     "label": "You can stabilize a dying creature with a successful DC 10 Medicine check."
   },
   {
-    "label": "If you’re at 0 hit points, temporary hit points won’t wake you up. Only real healing can do the job."
+    "label": "If you’re at 0 hit points, temporary hit points won’t wake you up. \nOnly real healing can do the job."
   },
   {
     "label": "When damage reduces you to 0 hit points, you die if the extra damage equals or exceeds your hit point maximum."
@@ -789,7 +789,7 @@
     "label": "It is entirely valid to take a potion orally or as a suppository."
   },
   {
-    "label": "Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes. Take notes."
+    "label": "Take notes. \nTake notes. \nTake notes. \nTake notes. \nTake notes. \nTake notes. \nTake notes. \nTake notes. \nTake notes. \nTake notes."
   },
   {
     "label": "You can save your progress in D&D by politely asking your DM to remember things."
@@ -810,7 +810,7 @@
     "label": "You can make encounters easier by being more careful, communicating with your party, and bribing the DM."
   },
   {
-    "label": "No, please. Roll to seduce an NPC. Your DM is just super excited to roleplay that."
+    "label": "No, please. \nRoll to seduce an NPC. \nYour DM is just super excited to roleplay that."
   },
   {
     "label": "Lawful Good doesn’t mean Lawful Nice and Chaotic Neutral doesn’t mean Chaotic Stupid."
@@ -870,7 +870,7 @@
     "label": "I’d give you a good reason to play a rogue, but let’s be honest, your party probably already has 3."
   },
   {
-    "label": "Spells rock, but books are for nerds. Play sorcerer to flex your magic and shun silly things like “reading.”"
+    "label": "Spells rock, but books are for nerds. \nPlay sorcerer to flex your magic and shun silly things like “reading.”"
   },
   {
     "label": "If you play warlock, you have a lot of combat options, like eldritch blast, eldritch blast, and even eldritch blast!"
@@ -888,16 +888,16 @@
     "label": "You can use Divination magic to absolutely destroy any hopes your DM had of creating mystery and intrigue."
   },
   {
-    "label": "Enchantment magic affects the minds of others. If you terrify the rogue with a sudden fireball, it’s technically Enchantment."
+    "label": "Enchantment magic affects the minds of others. \nIf you terrify the rogue with a sudden fireball, it’s technically Enchantment."
   },
   {
-    "label": "Evocation manipulates magical energy to produce a desired effect. All spells are secretly Evocation spells, in disguise."
+    "label": "Evocation manipulates magical energy to produce a desired effect. \nAll spells are secretly Evocation spells, in disguise."
   },
   {
     "label": "Illusion magic deceives the minds of others, which is totally different from Enchantment, and way cooler, mom."
   },
   {
-    "label": "Necromancy manipulates life and death energies. You can’t cast these spells unless 60% of your wardrobe is black."
+    "label": "Necromancy manipulates life and death energies. \nYou can’t cast these spells unless 60% of your wardrobe is black."
   },
   {
     "label": "Alter the properties of objects with Transmutation and learn the joy of turning everything into a goat."
