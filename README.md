@@ -1,10 +1,14 @@
 # D&D loading screen
 
-Simple loading screen based on the well known reddit thread
+Simple loading screen based on the well known reddit thread.
+
+Dungeon Masters can't know everything and sometimes need to look things up. Inspired by [/u/CountedCrow](https://www.reddit.com/r/DnD/comments/a059qp/oc_dd_5e_loading_screen_hints_definitive_edition/?utm_source=share&utm_medium=web2x&context=3) this loading screen / screensaver was made. You can put this on a screen at your D&D table to give your players something to talk about while you prepare the next encounter.
 
 https://dndloadingscreen.site
 
-![Example](https://dndloadingscreen.site/screenshot.jpg)
+![Example](https://dndloadingscreen.site/screenshot_v2.jpg)
+
+JSON file available at https://dndloadingscreen.site/data/tips/json
 
 ### Sources
 
