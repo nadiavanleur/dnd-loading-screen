@@ -1,3 +1,5 @@
+@import './variables.scss';
+
 @font-face {
   font-family: 'AR JULIAN';
   src: local('AR JULIAN'), local('ARJULIAN'),
@@ -8,11 +10,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-
-// Screen sizes
-$screen-sm: 30em;
-$screen-md: 45em;
 
 :root {
   // Spacing
@@ -71,53 +68,6 @@ html {
   left: 50%;
   transform: translate(-50%, -50%);
   width: var(--container-width);
-}
-
-// Tips
-.tips {
-  display: grid;
-  grid-template-columns: var(--container-width);
-  grid-template-rows: 1fr;
-  list-style: none;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: var(--spacing-md);
-}
-
-.tip {
-  grid-column: 1;
-  grid-row: 1;
-  width: 100%;
-  text-align: center;
-  font-size: 2rem;
-  opacity: 0;
-  transition: opacity 0.3s;
-
-  &.active {
-    opacity: 1;
-  }
-}
-
-// Footer
-.footer {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  left: auto;
-  padding: var(--spacing-xs);
-  display: flex;
-  justify-content: flex-end;
-
-  svg {
-    width: 100px;
-    height: var(--spacing-xl);
-    filter: drop-shadow(var(--shadow));
-
-    @media screen and (min-width: $screen-sm) {
-      width: 150px;
-      height: var(--spacing-xxl);
-    }
-  }
 }
 
 /**

@@ -1,0 +1,22 @@
+@import '../../styles/variables.scss';
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: auto;
+  padding: var(--spacing-xs);
+  display: flex;
+  justify-content: flex-end;
+
+  svg {
+    width: 100px;
+    height: var(--spacing-xl);
+    filter: drop-shadow(var(--shadow));
+
+    @media screen and (min-width: $screen-sm) {
+      width: 150px;
+      height: var(--spacing-xxl);
+    }
+  }
+}

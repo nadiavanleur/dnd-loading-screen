@@ -1,0 +1,26 @@
+.tips {
+  display: grid;
+  grid-template-columns: var(--container-width);
+  grid-template-rows: 1fr;
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: var(--spacing-md);
+}
+
+.tip {
+  grid-column: 1;
+  grid-row: 1;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+  white-space: pre-line;
+  cursor: default;
+
+  &.active {
+    opacity: 1;
+  }
+}
