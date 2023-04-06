@@ -2,7 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `DnD loading screen tips`,
+    title: `DnD loading screen hints`,
     siteUrl: `https://dndloadingscreen.site`
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
@@ -17,10 +17,10 @@ const config: GatsbyConfig = {
       resolve: 'gatsby-plugin-manifest',
       options: {
         icon: "src/assets/images/icon.png",
-        name: `Dungeons and Dragons loading screen tips`,
-        short_name: `D&D loading screen tips`,
+        name: `Dungeons and Dragons loading screen hints`,
+        short_name: `D&D loading screen hints`,
         description: `Dungeon Masters can't know everything and sometimes need to look things up. Inspired by /u/CountedCrow this loading screen / screensaver was made. You can put this on a screen at your D&D table to give your players something to talk about while you prepare the next encounter.`,
-        keywords: `dungeons and dragons, dnd, loading screen, tips, DM resources, dungeon master`,
+        keywords: `dungeons and dragons, dnd, d&d, loading screen, hints, DM resources, dungeon master`,
         author: `/u/nachowithan_a <contact@dndloadingscreen.site>`,
         start_url: `/`,
         theme_color: `#170304`,

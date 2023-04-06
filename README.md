@@ -8,7 +8,7 @@ https://dndloadingscreen.site
 
 ![Example](https://dndloadingscreen.site/screenshot_v2.jpg)
 
-JSON file available at https://dndloadingscreen.site/data/tips/json
+JSON file available at https://dndloadingscreen.site/data/hints.json
 
 ### Sources
 
