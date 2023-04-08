@@ -48,6 +48,9 @@
 html {
   font-family: 'AR JULIAN', serif;
   background-image: url('../assets/images/bg.jpeg');
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
   text-shadow: var(--shadow);
   box-sizing: border-box;
 }
